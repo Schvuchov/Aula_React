@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.caixa1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 626px;
+    height: 486px;
+}
+
+.caixa2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+span{
+    font-weight: bold;
+}
+
+.imgLogo{
+    width: 350px;
+    height: 238px;
+
+}
+
+h1 {
+    font-weight: 500;
+    size: 32px;
+}
+
+p {
+    color: #828282;
+    font-weight: 400;
+
+}
+
+span {
+    color: #3F3D56;
+}
+
